@@ -115,7 +115,7 @@ export default function App() {
 
       {/* Floating Action Button for Mobile Contact (optional) */}
       <a 
-        href="tel:+996555123456"
+        href="tel:+996707089511"
         className="fixed bottom-6 right-6 md:hidden z-40 bg-blue-600 text-white p-4 rounded-full shadow-2xl hover:scale-110 transition-transform active:scale-95"
         id="fab-call"
       >
