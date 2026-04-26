@@ -8,9 +8,9 @@ export default function Footer() {
         </div>
         
         <div className="flex gap-8">
-          <a href="#" className="hover:text-blue-500 transition-colors">INSTAGRAM</a>
-          <a href="#" className="hover:text-blue-500 transition-colors">WHATSAPP</a>
-          <a href="#" className="hover:text-blue-500 transition-colors">TELEGRAM</a>
+          <a href="https://www.instagram.com/bactybecovv?igsh=MTFtcm5zOW9lYjhlZw%3D%3D&utm_source=qr" className="hover:text-blue-500 transition-colors">INSTAGRAM</a>
+          <a href="https://api.whatsapp.com/send?phone=996707089511" className="hover:text-blue-500 transition-colors">WHATSAPP</a>
+          <a href="https://t.me/lbb7bl" className="hover:text-blue-500 transition-colors">TELEGRAM</a>
         </div>
       </div>
       
