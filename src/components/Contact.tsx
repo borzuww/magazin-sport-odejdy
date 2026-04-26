@@ -19,7 +19,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="font-bold text-gray-900 mb-1">Наш адрес</h4>
-                  <p className="text-gray-500 text-sm">Кыргызстан, г. Бишкек, <br />Пр. Чуй / ТЦ Дордой Плаза</p>
+                  <p className="text-gray-500 text-sm">Кыргызстан, г. Бишкек, <br />Улица Исхака Раззакова 38</p>
                 </div>
               </div>
 
@@ -29,7 +29,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="font-bold text-gray-900 mb-1">Телефон</h4>
-                  <p className="text-gray-500 text-sm">+996 (555) 123-456 <br />+996 (700) 987-654</p>
+                  <p className="text-gray-500 text-sm">+996 (707) 089-511 <br />+996 (707) 089-511</p>
                 </div>
               </div>
 
@@ -39,7 +39,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="font-bold text-gray-900 mb-1">Email</h4>
-                  <p className="text-gray-500 text-sm">support@bishkeksport.kg <br />sales@bishkeksport.kg</p>
+                  <p className="text-gray-500 text-sm">skyixline@gmail.com <br /></p>
                 </div>
               </div>
             </div>
